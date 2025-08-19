@@ -12,8 +12,6 @@ void main()
   {
     print("Stay at home!");
   }
-
-
 /*
 Schreibe eine if-Bedingung mit logischen Operatoren, die prüft ob:
 die Person alt genug für den Film ist ODER
